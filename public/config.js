@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/coinsbasedfun",
   "VITE_SEO_SITE_NAME": "coinsbased",
   "VITE_SEO_SITE_DESCRIPTION": "Enterprise-grade infrastructure meets maximum rug pull potential",
-  "VITE_SEO_SITE_URL": "https://coinsbased.fun",
+  "VITE_SEO_SITE_URL": "https://app.coinsbased.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@coinsbasedfun",
